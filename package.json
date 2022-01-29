@@ -1,0 +1,24 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "an API for my social network that uses a NoSQL database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Offspringjunky90/Social-Network-API.git"
+  },
+  "author": "Robert Augusta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Offspringjunky90/Social-Network-API/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.8"
+  },
+  "homepage": "https://github.com/Offspringjunky90/Social-Network-API#readme"
+}
